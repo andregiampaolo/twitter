@@ -5,10 +5,12 @@
 - NPM/YARN
 - Express
 - Mongoose
+- Nodemon
 
 # To install dependences
 ```yarn add express```
-```yar add mongoose```
+```yarn add mongoose```
+```yarn add nodemon -D``` (-D only development enviroment)
 
 # To start application execute:
 ```node src/index.js```
