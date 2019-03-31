@@ -14,3 +14,5 @@
 
 # To start application execute:
 ```node src/index.js```
+or
+```yarn start``` (to start server with nodemon)
