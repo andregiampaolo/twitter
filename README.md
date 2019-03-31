@@ -7,6 +7,9 @@
 - Mongoose
 - Nodemon
 
+# mongoDB atlas
+Create account into ~~mlabs~~ [mongoDb atlas] (https://www.mongodb.com/cloud/atlas), delivery a free mongodb instance to use in our project
+
 # To install dependences
 ```yarn add express```
 ```yarn add mongoose```
@@ -16,3 +19,4 @@
 ```node src/index.js```
 or
 ```yarn start``` (to start server with nodemon)
+
