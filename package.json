@@ -1,0 +1,11 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andregiampaolo/twitter.git",
+  "author": "André Giampaolo <andregiampaolo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
