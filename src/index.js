@@ -8,6 +8,7 @@ mongoose.connect('mongodb+srv://twitter-user:58C22bb794uZ78V@cluster0-pnv1w.mong
     useNewUrlParser: true
 });
 
+app.use(express.json());
 app.use(require('./routes'));
 
 app.listen(3000,() => {
