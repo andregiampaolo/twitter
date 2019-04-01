@@ -8,4 +8,4 @@ routes.get('/', (req, res) => {
     return res.send('Hello World!');
 });
 
-modules.exports = routes;
+module.exports = routes;
