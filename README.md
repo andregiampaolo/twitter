@@ -1,6 +1,6 @@
 # Twitter
 
-Projeto desenvolvido na semana OmniStack da Rocketseat.
+This project was based on th omnistack rocketseat week.
 
 # Dependencies
 - Node
