@@ -1,5 +1,7 @@
 # Twitter
 
+Projeto desenvolvido na semana OmniStack da Rocketseat.
+
 # Dependencies
 - Node
 - NPM/YARN
