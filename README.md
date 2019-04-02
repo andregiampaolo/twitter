@@ -10,11 +10,11 @@
 - Cors
 
 # To install dependences
-```yarn add express```
-```yarn add mongoose```
-```yarn add nodemon -D``` (-D only development enviroment)
-```yarn add socket.io```
-```yarn add cors```
+- ```yarn add express```
+- ```yarn add mongoose```
+- ```yarn add nodemon -D``` (-D only development enviroment)
+- ```yarn add socket.io```
+- ```yarn add cors```
 
 # Config database 
 
